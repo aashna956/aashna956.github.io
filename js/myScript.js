@@ -7,7 +7,7 @@ $(document).ready(function(){
 	{
 	$(".uiuc-tile").attr("src","img/uiuc22.jpg");
 	});
-	$(".about-me-tile").hover(function() {
+	$(".link-one").hover(function() {
 	$(".about-me-tile").attr("src","img/HOV1.jpg");
 	},function()
 	{
