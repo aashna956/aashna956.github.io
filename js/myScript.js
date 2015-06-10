@@ -1,7 +1,7 @@
 $(document).ready(function(){
 	$('.intro-text').animate({opacity:1},4000);
 
-	$(".uiuc-tile").hover(function() {
+	$(".link-two").hover(function() {
 	$(".uiuc-tile").attr("src","img/uiuc2HOVER.jpg");
 	},function()
 	{
