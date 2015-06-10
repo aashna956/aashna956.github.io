@@ -81,11 +81,12 @@ p {
 	float: left;
 }
 .col-sm-12 .aboutMeHalf .mainPic {
-	width: 160px;
-	height: 182px;
+	width: auto;
 	float: left;
 	padding-right: 6px;
 	padding-bottom: 0px;
+	max-width: 160px;
+	max-height: 182px;
 }
 .container-fluid .row .expanded {
 	float: left;
@@ -237,7 +238,7 @@ a:focus {
 	color: #fff;
 	background-repeat: no-repeat;
 	background-position: bottom center scroll;
-	background-image: url(../img/campusBW.jpg);
+	background-image: url(../img/intro-bg.jpg);
 	background-attachment: scroll;
 	background-color: #000;
 	-webkit-background-size: cover;
