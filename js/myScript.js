@@ -2,7 +2,7 @@ $(document).ready(function(){
 	$('.intro-text').animate({opacity:1},4000);
 
 	$(".link-two").hover(function() {
-	$(".uiuc-tile").attr("src","img/uiuc2HOVER.jpg");
+	$(".uiuc-tile").attr("src","img/UIUC2HOVER.jpg");
 	},function()
 	{
 	$(".uiuc-tile").attr("src","img/uiuc22.jpg");
