@@ -80,6 +80,15 @@ p {
 	display: inline;
 	float: left;
 }
+.link-one{
+    cursor:pointer;
+}
+.link-two{
+    cursor:pointer;
+}
+.link-three{
+    cursor:pointer;
+}
 .col-sm-12 .aboutMeHalf .mainPic {
 	width: auto;
 	float: left;
